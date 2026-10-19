@@ -1,0 +1,13 @@
+{
+  "name": "sih-frontend-placeholder",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "serve -s public -l 3000",
+    "build": "echo \"Place your frontend build step here (e.g. next build)\" && mkdir -p public && echo \"<h1>Smart Hiring Platform - placeholder</h1>\" > public/index.html",
+    "start": "serve -s public -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}

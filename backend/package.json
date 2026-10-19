@@ -1,0 +1,11 @@
+{
+  "name": "sih-backend-placeholder",
+  "version": "0.0.1",
+  "private": true,
+  "main": "api/health.js",
+  "scripts": {
+    "dev": "node api/health.js",
+    "start": "node api/health.js",
+    "build": "echo \"No build step for backend placeholder\""
+  }
+}
